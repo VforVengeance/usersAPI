@@ -1,0 +1,29 @@
+{
+  "name": "usersapi-marchese",
+  "version": "0.0.0",
+  "description": "a simple use for clustering and middleware",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VforVengeance/manage-users.git"
+  },
+  "keywords": [
+    "api",
+    "users",
+    "manage"
+  ],
+  "author": "VforVengeance <peppemarchese97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VforVengeance/manage-users/issues"
+  },
+  "homepage": "https://github.com/VforVengeance/manage-users#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "users-management": "^1.2.0"
+  },
+  "devDependencies": {}
+}
